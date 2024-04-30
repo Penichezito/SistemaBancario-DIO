@@ -1,7 +1,5 @@
 # Sistema Bancario simples- Desafio DIO
 
-# Sistema Bancário Simples
-
 Este é um simples sistema bancário implementado em Python como desafio de projeto para o bootcamp Python BackEnd Vivo na plataforma DIO. Ele permite que os usuários realizem operações básicas como depósito, saque e visualização do extrato.
 
 ## Funcionalidades
